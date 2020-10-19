@@ -12,7 +12,7 @@ Using the provided mockup as a design and style reference, build an email templa
 
 ### 2: Download the MJML [desktop client](https://mjml.io/download) or build in your web browser using the [online editor](https://mjml.io/try-it-live)
 
-### 3: Reference the following image paths for the design assets:
+### 3: Use the following absolute file paths for the images:
 
 **Logos**  
 [Header Logo](https://raw.githubusercontent.com/QH-johnroot/email-template-code-challenge/main/images/logo.png)  
