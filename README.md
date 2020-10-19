@@ -14,21 +14,22 @@ Using the provided mockup as a design and style reference, build an email templa
 
 ### 3: Reference the following image paths for the design assets:
 
-**Logo**  
-https://raw.githubusercontent.com/QH-johnroot/email-template-code-assessment/main/images/logo.png
+**Logos**  
+[Header Logo](https://raw.githubusercontent.com/QH-johnroot/email-template-code-challenge/main/images/logo.png)  
+[Footer Logo](https://raw.githubusercontent.com/QH-johnroot/email-template-code-challenge/main/images/logo.png)
      
-**Background Heros**  
-https://raw.githubusercontent.com/QH-johnroot/email-template-code-assessment/main/images/background_hero.jpg  
-https://raw.githubusercontent.com/QH-johnroot/email-template-code-assessment/main/images/background_alt.jpg  
+**Backgrounds**  
+[Hero Background](https://raw.githubusercontent.com/QH-johnroot/email-template-code-challenge/main/images/background_hero.jpg)  
+[Alternate Background](https://raw.githubusercontent.com/QH-johnroot/email-template-code-challenge/main/images/background_alt.jpg)  
      
 **Icons**  
-https://raw.githubusercontent.com/QH-johnroot/email-template-code-assessment/main/images/icon_30px_1.png  
-https://raw.githubusercontent.com/QH-johnroot/email-template-code-assessment/main/images/icon_30px_2.png  
-https://raw.githubusercontent.com/QH-johnroot/email-template-code-assessment/main/images/icon_30px_3.png  
-https://raw.githubusercontent.com/QH-johnroot/email-template-code-assessment/main/images/icon_40px_1.png  
-https://raw.githubusercontent.com/QH-johnroot/email-template-code-assessment/main/images/icon_40px_2.png  
-https://raw.githubusercontent.com/QH-johnroot/email-template-code-assessment/main/images/icon_40px_3.png  
-https://raw.githubusercontent.com/QH-johnroot/email-template-code-assessment/main/images/icon_40px_4.png
+[Gray Icon 1](https://raw.githubusercontent.com/QH-johnroot/email-template-code-challenge/main/images/icon_30px_1.png)  
+[Gray Icon 2](https://raw.githubusercontent.com/QH-johnroot/email-template-code-challenge/main/images/icon_30px_2.png)  
+[Gray Icon 3](https://raw.githubusercontent.com/QH-johnroot/email-template-code-challenge/main/images/icon_30px_3.png)  
+[Purple Icon 1](https://raw.githubusercontent.com/QH-johnroot/email-template-code-challenge/main/images/icon_40px_1.png)  
+[Purple Icon 2](https://raw.githubusercontent.com/QH-johnroot/email-template-code-challenge/main/images/icon_40px_2.png)  
+[Purple Icon 3](https://raw.githubusercontent.com/QH-johnroot/email-template-code-challenge/main/images/icon_40px_3.png)  
+[Purple Icon 4](https://raw.githubusercontent.com/QH-johnroot/email-template-code-challenge/main/images/icon_40px_4.png)
 
 ### 4: Save your MJML markup and rendered HTML locally as email.mjml and email.html, respectively
 
