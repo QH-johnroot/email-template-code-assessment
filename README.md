@@ -4,7 +4,9 @@ Thank you for participating in our email template code challenge. Please through
 
 ## Overview
 
-Using the provided mockup as a design and style reference, build an email template from scratch in the [MJML Responsive Email Framework](https://mjml.io/). A successfully completed challenge will look as close to the mockup as possible, and will render in both desktop and mobile email clients. 
+Using the provided mockup as a design and style reference, build an email template from scratch in the [MJML Responsive Email Framework](https://mjml.io/). A successfully completed challenge will look as close to the mockup as possible, and will render in both desktop and mobile email clients.
+
+## Instructions
 
 ### 1: Review the email design mockup
 
