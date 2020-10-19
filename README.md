@@ -33,4 +33,4 @@ Using the provided mockup as a design and style reference, build an email templa
 
 ### 4: Save your MJML markup and rendered HTML locally as email.mjml and email.html, respectively
 
-### 4: Commit the two files to a private [GitHub](https://github.com/) repository, and share the repository with QH-johnroot
+### 4: Commit the two files to a private [GitHub](https://github.com/) repository, and add QH-johnroot as a collaborator.
